@@ -4,7 +4,6 @@ A lightweight Java REST API built with Spring Boot that allows you to download Y
 
 ## Features
 - 🎵 Convert and download YouTube videos as MP3
-- 📼 Download full videos as MP4
 - 🔧 Simple API interface (GET /api/download?url=...)
 - 🧰 Uses `yt-dlp` under the hood
 - ✅ Easy to deploy and integrate into your own website
