@@ -11,8 +11,7 @@ A lightweight Java REST API built with Spring Boot that allows you to download Y
 
 ## Requirements
 - Java 17 or higher
-- yt-dlp executable (included in `resources/yt-dlp.exe`)
-- ffmpeg (if yt-dlp needs it for audio extraction)
+- yt-dlp (included in `resources/yt-dlp.exe`)
 
 ## Example Request
 ```http
