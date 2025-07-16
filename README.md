@@ -1,4 +1,4 @@
-#jyt-dlp-api
+## jyt-dlp-api
 
 A lightweight Java REST API built with Spring Boot that allows you to download YouTube videos as MP3 or MP4 using the powerful `yt-dlp` tool.
 
